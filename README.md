@@ -20,4 +20,4 @@ that outperforms the placer based on simulated annealing (SA)
 by reducing more than 5% in Tmax.
 
 
-### Please note that for anonymous review process, please avoid downloading or opening the PDF as it contains author information.
+### To preserve the anonymity required for the review process, please refrain from downloading or opening the PDF, as it contains author-identifying information.
