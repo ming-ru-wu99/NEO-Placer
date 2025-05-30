@@ -18,3 +18,6 @@ to multiple chiplets for efficient analysis of vertical coupling in 3D
 ICs. Experimental results verify the validity of our NEO placer
 that outperforms the placer based on simulated annealing (SA)
 by reducing more than 5% in Tmax.
+
+
+Please note that for anonymous review process, please avoid downloading or opening the PDF as it contains author information.
