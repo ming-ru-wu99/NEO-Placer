@@ -1,6 +1,6 @@
 # NEO Placer
 ## Paper Preprint (2025/5/30)
-Abstract—This paper presents the NEO (NEural Optimizationbased) placer, a thermal-aware floorplanning/placement system
+Abstract—This paper presents the NEO (NEural Optimization-based) placer, a thermal-aware floorplanning/placement system
 for 3D ICs, by combining a set of novel methods with the powerful auto-gradient capability of modern machine learning (ML)
 frameworks. We employ a new pure neural network approach
 featuring the minimalist design in wirelengths and overlaps and
