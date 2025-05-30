@@ -21,3 +21,7 @@ by reducing more than 5% in Tmax.
 
 
 ### To preserve the anonymity required for the review process, please refrain from downloading or opening the PDF, as it contains author-identifying information.
+
+### © 2025 Anonymous Authors. All rights reserved.
+This work is provided for review and academic discussion only.  
+No part of this work may be copied, distributed, modified, or used commercially without explicit permission from the authors.
