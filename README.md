@@ -1,4 +1,4 @@
-# NEO Placer: ML-driven Thermal-aware Placement Considering Vertical Coupling in 3D ICs
+# NEO Placer
 ## Paper Preprint (2025/5/30)
 Abstract—This paper presents the NEO (NEural Optimizationbased) placer, a thermal-aware floorplanning/placement system
 for 3D ICs, by combining a set of novel methods with the powerful auto-gradient capability of modern machine learning (ML)
