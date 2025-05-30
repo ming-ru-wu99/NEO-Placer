@@ -24,4 +24,4 @@ by reducing more than 5% in Tmax.
 
 ### © 2025 Anonymous Authors. All rights reserved.
 This work is provided for review and academic discussion only.  
-No part of this work may be copied, distributed, modified, or used commercially without explicit permission from the authors.
+No part of this work may be used commercially without explicit permission from the authors.
